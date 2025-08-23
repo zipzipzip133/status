@@ -1,5 +1,6 @@
 {
-  "fruitfarm1.5": "on",
+  "ebm": "on",
+  "fruitfarm1.5": "off",
   "coinszon1.1": "off",
   "coinszon": "off",
   "sthosi1.2": "on",
@@ -12,7 +13,7 @@
   "claimlithosi": "off",
   "claimlithosi1.1": "off",
   "satoshifaucetio": "off",
-  "earnbitsmoon": "on",
+  "earnbitsmoon": "off",
   "leme": "on",
   "satoshifaucet": "off",
   "bitfaucet": "off",
