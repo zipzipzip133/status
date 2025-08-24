@@ -1,4 +1,5 @@
 {
+  "freeltcfun": "on",
   "ebm": "on",
   "fruitfarm1.5": "off",
   "coinszon1.1": "off",
@@ -34,7 +35,6 @@
   "claimlitev2": "off",
   "claimlite2.1": "on",
   "drip": "on",
-  "ltcfun": "on",
   "ad_id": "109",
   "cry": "on",
   "fow": "on"
