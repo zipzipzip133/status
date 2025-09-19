@@ -1,7 +1,7 @@
 {
   "viepucet": "on",
   "cryptochain": "on",
-  "viefaucet": "on",
+  "viefaucet": "off",
   "cryptofaucethub": "on",
   "cryptofaucet.one": "on",
   "lootyreward": "on",
