@@ -1,4 +1,5 @@
 {
+  "Freeltc.fun1.1": "on",
   "feyytool1.2": "on",
   "cryptofuture1.1": "on",
   "bitfaucet1.2": "on",
@@ -22,7 +23,7 @@
   "hotnew": "on",
   "ebmnew": "on",
   "hotfaucet": "off",
-  "freeltcfun": "on",
+  "freeltcfun": "off",
   "ebm": "on",
   "fruitfarm1.5": "off",
   "coinszon1.1": "off",
