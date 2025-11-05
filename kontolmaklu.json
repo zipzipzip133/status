@@ -1,6 +1,6 @@
 {
-  "fixcryptofuture": "on",
-  "newgencryptofuture": "off",
+  "fixcryptofuture": "off",
+  "newgencryptofuture": "on",
   "mixfaucet": "on",
   "onlyneww": "on",
   "earnbitmoon-1.5": "on",
