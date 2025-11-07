@@ -1,4 +1,5 @@
 {
+  "fixtimercryptofuture": "on",
   "fixcryptofuture": "off",
   "newgencryptofuture": "on",
   "mixfaucet": "on",
