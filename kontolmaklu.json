@@ -1,4 +1,5 @@
 {
+  "taskerton": "on",
   "fixtimercryptofuture": "on",
   "fixcryptofuture": "off",
   "newgencryptofuture": "on",
