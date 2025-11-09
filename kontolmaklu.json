@@ -2,7 +2,7 @@
   "taskerton": "on",
   "fixtimercryptofuture": "on",
   "fixcryptofuture": "off",
-  "newgencryptofuture": "on",
+  "newgencryptofuture": "off",
   "mixfaucet": "on",
   "onlyneww": "on",
   "earnbitmoon-1.5": "on",
