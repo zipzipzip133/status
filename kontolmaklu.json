@@ -1,7 +1,8 @@
 {
+  "future1.2": "on",
   "easypeasy": "on",
   "taskerton": "on",
-  "fixtimercryptofuture": "on",
+  "fixtimercryptofuture": "off",
   "fixcryptofuture": "off",
   "newgencryptofuture": "off",
   "mixfaucet": "on",
